@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sagar Dhiman",
+    "email": "sagar@example.com",
+    "age": 25,
+    "city": "Chandigarh"
+  },
+  {
+    "name": "Aman Verma",
+    "email": "aman@example.com",
+    "age": 28,
+    "city": "Delhi"
+  },
+  {
+    "name": "Rohit Sharma",
+    "email": "rohit@example.com",
+    "age": 30,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha@example.com",
+    "age": 24,
+    "city": "Jaipur"
+  },
+  {
+    "name": "Pooja Singh",
+    "email": "pooja@example.com",
+    "age": 27,
+    "city": "Lucknow"
+  }
+]
