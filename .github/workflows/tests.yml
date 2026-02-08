@@ -25,7 +25,11 @@ jobs:
 
     steps:
       - name: Checkout code
+<<<<<<< HEAD
         uses: actions/checkout@v4
+=======
+        uses: actions/checkout@v6
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2

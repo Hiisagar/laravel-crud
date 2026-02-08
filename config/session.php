@@ -129,7 +129,11 @@ return [
 
     'cookie' => env(
         'SESSION_COOKIE',
+<<<<<<< HEAD
         Str::slug(env('APP_NAME', 'laravel')).'-session'
+=======
+        Str::slug((string) env('APP_NAME', 'laravel')).'-session'
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
     ),
 
     /*
@@ -152,7 +156,11 @@ return [
     |
     | This value determines the domain and subdomains the session cookie is
     | available to. By default, the cookie will be available to the root
+<<<<<<< HEAD
     | domain and all subdomains. Typically, this shouldn't be changed.
+=======
+    | domain without subdomains. Typically, this shouldn't be changed.
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
     |
     */
 

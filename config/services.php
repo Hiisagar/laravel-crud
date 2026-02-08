@@ -15,11 +15,19 @@ return [
     */
 
     'postmark' => [
+<<<<<<< HEAD
         'token' => env('POSTMARK_TOKEN'),
     ],
 
     'resend' => [
         'key' => env('RESEND_KEY'),
+=======
+        'key' => env('POSTMARK_API_KEY'),
+    ],
+
+    'resend' => [
+        'key' => env('RESEND_API_KEY'),
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
     ],
 
     'ses' => [

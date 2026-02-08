@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "$schema": "https://json.schemastore.org/package.json",
+=======
+    "$schema": "https://www.schemastore.org/package.json",
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
     "private": true,
     "type": "module",
     "scripts": {
@@ -12,6 +16,10 @@
         "concurrently": "^9.0.1",
         "laravel-vite-plugin": "^2.0.0",
         "tailwindcss": "^4.0.0",
+<<<<<<< HEAD
         "vite": "^7.0.4"
+=======
+        "vite": "^7.0.7"
+>>>>>>> a41c3e927a342b9e18c9a38baf3f01295260782d
     }
 }
